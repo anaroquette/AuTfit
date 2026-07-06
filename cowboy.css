@@ -1,0 +1,380 @@
+.desktop-6,
+.desktop-6 * {
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #fffac4;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #fde998;
+  width: 1440px;
+  height: 137px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.au-tfit-roupas-para-seu-pet {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 172px;
+  top: 0px;
+  width: 297px;
+  height: 137px;
+  -webkit-text-stroke: 1px #000000;
+}
+.au-tfit-roupas-para-seu-pet-span  {
+  font-family: "Croissant One", serif;
+  font-size: 96px;
+  font-weight: 400;
+  font-style: normal;
+}
+.au-tfit-roupas-para-seu-pet-span2 {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 109px;
+  height: 126px;
+  position: absolute;
+  left: 38px;
+  top: 6px;
+  object-fit: cover;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 419px;
+  top: 48px;
+  overflow: hidden;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 928px;
+  top: 11px;
+  width: 50px;
+  height: 25px;
+}
+.quem-somos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 998px;
+  top: 11px;
+  width: 140px;
+  height: 22px;
+}
+.contato {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1138px;
+  top: 11px;
+  width: 86px;
+  height: 26px;
+}
+.conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1224px;
+  top: 11px;
+  width: 56px;
+  height: 22px;
+}
+.pedidos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 9px;
+  width: 89px;
+  height: 22px;
+}
+.busca {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 40px;
+  width: 97px;
+  height: 29px;
+}
+.rectangle-1 {
+  width: 458px;
+  height: 663px;
+  position: absolute;
+  left: 113px;
+  top: 197px;
+  object-fit: cover;
+}
+.rectangle-2 {
+  width: 134px;
+  height: 187px;
+  position: absolute;
+  left: 600px;
+  top: 212px;
+  object-fit: cover;
+}
+.rectangle-3 {
+  width: 134px;
+  height: 187px;
+  position: absolute;
+  left: 600px;
+  top: 435px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  width: 134px;
+  height: 187px;
+  position: absolute;
+  left: 600px;
+  top: 659px;
+  object-fit: cover;
+}
+.chapeu-cachorro-cowboy-chapeu-para-cachorro-estilo-cowboy {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 853px;
+  top: 229px;
+  width: 412px;
+  height: 150px;
+}
+.chapeu-cachorro-cowboy-chapeu-para-cachorro-estilo-cowboy-span {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.chapeu-cachorro-cowboy-chapeu-para-cachorro-estilo-cowboy-span2 {
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.chapeu-cachorro-cowboy-chapeu-para-cachorro-estilo-cowboy-span3 {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.r-99-90 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 865px;
+  top: 404px;
+  width: 133px;
+  height: 74px;
+}
+.rectangle-5 {
+  background: #fffafa;
+  width: 41px;
+  height: 28px;
+  position: absolute;
+  left: 865px;
+  top: 464px;
+}
+.rectangle-6 {
+  background: #ffffff;
+  width: 41px;
+  height: 28px;
+  position: absolute;
+  left: 928px;
+  top: 464px;
+}
+.rectangle-7 {
+  background: #ffffff;
+  width: 41px;
+  height: 28px;
+  position: absolute;
+  left: 991px;
+  top: 465px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  width: 41px;
+  height: 28px;
+  position: absolute;
+  left: 1054px;
+  top: 464px;
+}
+.rectangle-9 {
+  background: #ffffff;
+  width: 41px;
+  height: 28px;
+  position: absolute;
+  left: 1117px;
+  top: 464px;
+}
+.p {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 880px;
+  top: 466px;
+}
+.m {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 943px;
+  top: 466px;
+  width: 12px;
+}
+.g {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1006px;
+  top: 465px;
+  width: 12px;
+}
+.gg {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1061px;
+  top: 466px;
+  width: 27px;
+}
+.xg {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1115px;
+  top: 466px;
+  width: 46px;
+}
+.rectangle-10 {
+  background: #ffffff;
+  width: 293px;
+  height: 51px;
+  position: absolute;
+  left: 865px;
+  top: 512px;
+}
+.div {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 872px;
+  top: 529px;
+  width: 27px;
+  height: 24px;
+}
+._1 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 989px;
+  top: 531px;
+  width: 27px;
+  height: 24px;
+}
+.div2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1132px;
+  top: 525px;
+}
+.rectangle-11 {
+  background: #f8e44f;
+  width: 254px;
+  height: 42px;
+  position: absolute;
+  left: 884px;
+  top: 580px;
+}
+.adicionar-no-carrinho {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 880px;
+  top: 592px;
+  width: 262px;
+  height: 18px;
+}
+.rectangle-12 {
+  background: #ffffff;
+  width: 340px;
+  height: 169px;
+  position: absolute;
+  left: 1075px;
+  top: 805px;
+}
+.descri-o-indicado-para-c-es-proporciona-maior-conforto-para-o-seu-pet-possui-detalhes-fofos-em-embalagem-com-1-unidade-dispon-veis-nos-tamanhos-p-m-g-gg-e-xg-lavavel-unisex {
+  color: #000000;
+  text-align: right;
+  position: absolute;
+  left: 1059px;
+  top: 806px;
+  width: 351px;
+  height: 161px;
+}
+.descri-o-indicado-para-c-es-proporciona-maior-conforto-para-o-seu-pet-possui-detalhes-fofos-em-embalagem-com-1-unidade-dispon-veis-nos-tamanhos-p-m-g-gg-e-xg-lavavel-unisex-span {
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.descri-o-indicado-para-c-es-proporciona-maior-conforto-para-o-seu-pet-possui-detalhes-fofos-em-embalagem-com-1-unidade-dispon-veis-nos-tamanhos-p-m-g-gg-e-xg-lavavel-unisex-span2 {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}

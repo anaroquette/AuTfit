@@ -1,0 +1,160 @@
+.desktop-10,
+.desktop-10 * {
+  box-sizing: border-box;
+}
+.desktop-10 {
+  background: #fffac4;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #fde998;
+  width: 1440px;
+  height: 137px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.au-tfit-roupas-para-seu-pet {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 172px;
+  top: 0px;
+  width: 297px;
+  height: 137px;
+  -webkit-text-stroke: 1px #000000;
+}
+
+.au-tfit-roupas-para-seu-pet-span  {
+  font-family: "Croissant One", serif;
+  font-size: 96px;
+  font-weight: 400;
+  font-style: normal;
+}
+.au-tfit-roupas-para-seu-pet-span2 {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 109px;
+  height: 126px;
+  position: absolute;
+  left: 38px;
+  top: 6px;
+  object-fit: cover;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 419px;
+  top: 48px;
+  overflow: hidden;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 928px;
+  top: 11px;
+  width: 50px;
+  height: 25px;
+}
+.quem-somos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 998px;
+  top: 11px;
+  width: 140px;
+  height: 22px;
+}
+.contato {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1138px;
+  top: 11px;
+  width: 86px;
+  height: 26px;
+}
+.conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1224px;
+  top: 11px;
+  width: 56px;
+  height: 22px;
+}
+.pedidos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 9px;
+  width: 89px;
+  height: 22px;
+}
+.busca {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 671px;
+  top: 56px;
+  width: 97px;
+  height: 13px;
+}
+.frame-11 {
+  background: #ffffff;
+  width: 808px;
+  height: 86px;
+  position: absolute;
+  left: 309px;
+  top: 212px;
+  overflow: hidden;
+}
+.images-1 {
+  width: 147px;
+  height: 147px;
+  position: absolute;
+  left: -28px;
+  top: -31px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.o-que-procura {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 458px;
+  top: 174px;
+  width: 462px;
+  height: 24px;
+}

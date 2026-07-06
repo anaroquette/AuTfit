@@ -1,0 +1,383 @@
+.desktop-9,
+.desktop-9 * {
+  box-sizing: border-box;
+}
+.desktop-9 {
+  background: #fffac4;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #fde998;
+  width: 1440px;
+  height: 137px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.au-tfit-roupas-para-seu-pet {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 172px;
+  top: 0px;
+  width: 297px;
+  height: 137px;
+  -webkit-text-stroke: 1px #000000;
+}
+.au-tfit-roupas-para-seu-pet-span {
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+}
+.au-tfit-roupas-para-seu-pet-span2 {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 109px;
+  height: 126px;
+  position: absolute;
+  left: 38px;
+  top: 6px;
+  object-fit: cover;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 419px;
+  top: 48px;
+  overflow: hidden;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 928px;
+  top: 11px;
+  width: 50px;
+  height: 25px;
+}
+.quem-somos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 998px;
+  top: 11px;
+  width: 140px;
+  height: 22px;
+}
+.contato {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1138px;
+  top: 11px;
+  width: 86px;
+  height: 26px;
+}
+.conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 692px;
+  top: 69px;
+  width: 144px;
+  height: 22px;
+}
+.pedidos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 9px;
+  width: 89px;
+  height: 22px;
+}
+.busca {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 37px;
+  width: 97px;
+  height: 13px;
+}
+.cadastro {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 537px;
+  top: 169px;
+  width: 330px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nome-completo {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 306px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.email {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 365px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-10 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 308px;
+  overflow: hidden;
+}
+.frame-20 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 365px;
+  overflow: hidden;
+}
+.frame-21 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 422px;
+  overflow: hidden;
+}
+.frame-22 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 479px;
+  overflow: hidden;
+}
+.frame-23 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 536px;
+  overflow: hidden;
+}
+.frame-24 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 593px;
+  overflow: hidden;
+}
+.frame-25 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 650px;
+  overflow: hidden;
+}
+.frame-26 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 351px;
+  top: 707px;
+  overflow: hidden;
+}
+.telefone {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 424px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cpf {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 483px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nome-do-pet {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 541px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.porte-do-pet {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 600px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nome-completo2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 651px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.confirmar-senha {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 121px;
+  top: 703px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-15 {
+  background: #fde998;
+  width: 273px;
+  height: 71px;
+  position: absolute;
+  left: 351px;
+  top: 790px;
+  overflow: hidden;
+}
+.cadastrar {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 47px;
+  top: 21px;
+  width: 180px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-19 {
+  background: #fde998;
+  width: 510px;
+  height: 482px;
+  position: absolute;
+  left: 861px;
+  top: 308px;
+  overflow: hidden;
+}
+.insira-foto-do-seu-pet {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 861px;
+  top: 271px;
+  width: 244px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

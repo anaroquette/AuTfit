@@ -1,0 +1,288 @@
+.desktop-8,
+.desktop-8 * {
+  box-sizing: border-box;
+}
+.desktop-8 {
+  background: #fffac4;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #fde998;
+  width: 1440px;
+  height: 137px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.au-tfit-roupas-para-seu-pet {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 172px;
+  top: 0px;
+  width: 297px;
+  height: 137px;
+  -webkit-text-stroke: 1px #000000;
+}
+.au-tfit-roupas-para-seu-pet-span  {
+    font-family: "Croissant One", serif;
+    font-size: 96px;
+    font-weight: 400;
+    font-style: normal;
+  }
+.au-tfit-roupas-para-seu-pet-span2 {
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 109px;
+  height: 126px;
+  position: absolute;
+  left: 38px;
+  top: 6px;
+  object-fit: cover;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 419px;
+  top: 48px;
+  overflow: hidden;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 928px;
+  top: 11px;
+  width: 50px;
+  height: 25px;
+}
+.quem-somos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 998px;
+  top: 11px;
+  width: 140px;
+  height: 22px;
+}
+.contato {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 677px;
+  top: 56px;
+  width: 140px;
+  height: 26px;
+}
+.conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1224px;
+  top: 11px;
+  width: 56px;
+  height: 22px;
+}
+.pedidos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 9px;
+  width: 89px;
+  height: 22px;
+}
+.busca {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 37px;
+  width: 97px;
+  height: 13px;
+}
+.entre-em-contato {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 537px;
+  top: 169px;
+  width: 330px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nome-completo {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 117px;
+  top: 303px;
+  width: 230px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-10 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 346px;
+  top: 312px;
+  overflow: hidden;
+}
+.frame-11 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 346px;
+  top: 366px;
+  overflow: hidden;
+}
+.frame-12 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 346px;
+  top: 419px;
+  overflow: hidden;
+}
+.frame-13 {
+  background: #fde998;
+  width: 278px;
+  height: 44px;
+  position: absolute;
+  left: 346px;
+  top: 473px;
+  overflow: hidden;
+}
+.frame-14 {
+  background: #fde998;
+  width: 278px;
+  height: 123px;
+  position: absolute;
+  left: 346px;
+  top: 527px;
+  overflow: hidden;
+}
+.email {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 135px;
+  top: 366px;
+  width: 101px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.telefone {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 147px;
+  top: 419px;
+  width: 101px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.assunto {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 147px;
+  top: 473px;
+  width: 101px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mensagem {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 142px;
+  top: 527px;
+  width: 132px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-15 {
+  background: #fde998;
+  width: 273px;
+  height: 71px;
+  position: absolute;
+  left: 346px;
+  top: 710px;
+  overflow: hidden;
+}
+.enviar-mensagem {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 47px;
+  top: 21px;
+  width: 180px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

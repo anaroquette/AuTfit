@@ -1,0 +1,303 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #fffac4;
+  height: 1046px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  background: #fde998;
+  width: 1440px;
+  height: 221px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.au-tfit-roupas-para-seu-pet {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 223px;
+  top: 45px;
+}
+.au-tfit-roupas-para-seu-pet-span  {
+  font-family: "Croissant One", serif;
+  font-size: 96px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.au-tfit-roupas-para-seu-pet-span2 {
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 158px;
+  height: 200px;
+  position: absolute;
+  left: 38px;
+  top: 11px;
+  object-fit: cover;
+}
+.frame-2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 419px;
+  top: 48px;
+  overflow: hidden;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 692px;
+  top: 98px;
+  width: 160px;
+  height: 25px;
+}
+.quem-somos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 998px;
+  top: 11px;
+  width: 140px;
+  height: 22px;
+}
+.contato {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1138px;
+  top: 11px;
+  width: 86px;
+  height: 26px;
+}
+.conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1224px;
+  top: 11px;
+  width: 56px;
+  height: 22px;
+}
+.pedidos {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 9px;
+  width: 89px;
+  height: 22px;
+}
+.busca {
+  color: #000000;
+  text-align: left;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1300px;
+  top: 41px;
+  width: 97px;
+  height: 13px;
+}
+.frame-6 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 1137px;
+  top: 229px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  width: 197px;
+  height: 269px;
+  position: absolute;
+  left: 28px;
+  top: 21px;
+  object-fit: cover;
+}
+.blusa-com-capuz-cachorro-edi-o-natal {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 305px;
+  width: 197px;
+  height: 55px;
+}
+.frame-5 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 784px;
+  top: 229px;
+  overflow: hidden;
+}
+.moletom-cachorro-woof {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 309px;
+  width: 197px;
+  height: 55px;
+}
+.frame-4 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 431px;
+  top: 229px;
+  overflow: hidden;
+}
+.blusa-cachorro-banana {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 309px;
+  width: 197px;
+  height: 55px;
+}
+.frame-10 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 1137px;
+  top: 625px;
+  overflow: hidden;
+}
+.kit-fantasia-cachorro-edi-o-natal {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 309px;
+  width: 197px;
+  height: 55px;
+}
+.frame-9 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 784px;
+  top: 625px;
+  overflow: hidden;
+}
+.moletom-cachorro-champion {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 309px;
+  width: 197px;
+  height: 55px;
+}
+.frame-7 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 78px;
+  top: 625px;
+  overflow: hidden;
+}
+.capa-cachorro-edi-o-halloween {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 309px;
+  width: 197px;
+  height: 55px;
+}
+.frame-42 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 431px;
+  top: 625px;
+  overflow: hidden;
+}
+.chapeu-cachorro-cowboy {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 308px;
+  width: 197px;
+  height: 55px;
+}
+.frame-8 {
+  background: #fde998;
+  width: 253px;
+  height: 388px;
+  position: absolute;
+  left: 78px;
+  top: 229px;
+  overflow: hidden;
+}
+.blusa-cachorro-batata-frita {
+  color: #000000;
+  text-align: center;
+  font-family: "Idiqlat-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 309px;
+  width: 197px;
+  height: 55px;
+}
